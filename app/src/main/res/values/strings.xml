@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Empleados01</string>
+    <string name="btn_nuevo_empleado">Nuevo empleado</string>
+    <string name="btn_listar_empleado">Listar empleados</string>
+    <string name="txt_nombre">Nombre</string>
+    <string name="txt_apellido">Apellido</string>
+    <string name="txt_numero">Teléfono</string>
+    <string name="txt_email">Email</string>
+    <string name="btn_siguiente">Siguiente</string>
+    <string name="btn_cargarContacto">Cargar contacto</string>
+    <string name="btn_ok">Ok</string>
+    <string name="btn_cancel">Cancel</string>
+    <string name="btn_save">Guardar</string>
+    <string name="db">my.db01</string>
+</resources>
